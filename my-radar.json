@@ -1,0 +1,23 @@
+{
+  "name": "Ash",
+  "joiningDate": "2015-01-23T09:00:00.000Z",
+  "assessments" : [
+    {
+      "category" : "DevOps",
+      "ratings" : [
+        {
+          "Vagrant": 1,
+          "IBR Framework": 5,
+          "Angular": 4,
+          "Styling": 3
+        },
+        {
+          "Vagrant": 2,
+          "IBR Framework": 5,
+          "Angular": 4,
+          "Styling": 3
+        }
+      ]
+    }
+  ]
+}
